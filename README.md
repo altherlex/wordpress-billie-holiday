@@ -94,5 +94,23 @@
 <h1>License</h1>
 <p>WordPress is free software, and is released under the terms of the <abbr title="GNU General Public License">GPL</abbr> version 2 or (at your option) any later version. See <a href="license.txt">license.txt</a>.</p>
 
+<hr>
+<h1>My footnote</h1>
+
+<h2>Hosting</h2>
+<ul>
+  <li>
+    <a href="https://trafficplanethosting.com/" target="_blank">trafficplanethosting</a>
+  </li>  
+  <li>
+    <a href="https://www.wphuman.com/hosting-wordpress-on-heroku-8-things-i-wish-i-knew/" target="_blank">Heroku</a>
+  </li>
+  <li>
+    <a href="https://wpengine.com/" target="_blank">wpengine</a>
+  </li>
+  <li>
+    <a href="http://websynthesis.com/" target="_blank">websynthesis</a>
+  </li>
+</ul>
 </body>
 </html>
