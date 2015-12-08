@@ -95,7 +95,7 @@
 <p>WordPress is free software, and is released under the terms of the <abbr title="GNU General Public License">GPL</abbr> version 2 or (at your option) any later version. See <a href="license.txt">license.txt</a>.</p>
 
 <hr>
-<h1>My footnote</h1>
+<h1>My footnotes</h1>
 
 <h2>Hosting</h2>
 <ul>
